@@ -9,7 +9,7 @@
   |------------+-------------------------+----------------------------------------------+---------+--------------+--------------|
   |    *Fecha* | *Tema*                  | *Integrantes*                                | *Video* | *Documentos* | *Evaluación* |
   |------------+-------------------------+----------------------------------------------+---------+--------------+--------------|
-  | 2026.09.21 | Microkernel y exokernel | Beatriz Almaraz  y Eson Barragán             |         |              |              |
+  | 2026.09.21 | Microkernel y exokernel | Beatriz Almaraz  y Edson Barragán            |         |              |              |
   | 2026.09.21 | Unikernels              | Johan Cipriano y Sebastián Ladrón de Guevara |         |              |              |
   | 2026.09.28 |                         | Francisco Hernández y Itzcóatl Ayax Arcos    |         |              |              |
   |------------+-------------------------+----------------------------------------------+---------+--------------+--------------|
