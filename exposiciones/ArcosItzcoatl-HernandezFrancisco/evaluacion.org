@@ -1,0 +1,68 @@
+#+title: Evaluación de la exposición
+#+author: Gunnar Wolf
+
+* Los sistemas operativos frente a cargas de alto rendimiento
+
+- Tema presentado por :: Francisco Hernández e Itzcóatl Ayax Arcos
+- Calificación global :: 8.35
+
+|------------------------+------+--------------------+------+---------|
+| Evaluación  compañeros | Peso | Evaluación docente | Peso | *Total* |
+|------------------------+------+--------------------+------+---------|
+| 9.4                    |  0.3 |                7.9 |  0.7 |    8.35 |
+|------------------------+------+--------------------+------+---------|
+| Entrega extemporánea   |      |                    |      |    6.68 |
+|------------------------+------+--------------------+------+---------|
+#+TBLFM: @2$5=$1*$2+$3*$4;f-2::@3$5=@2*0.8
+
+* Evaluación grupal
+
+|              | 1 | 2 | 3 | 4 | 5 | Total |
+|--------------+---+---+---+---+---+-------|
+| Originalidad | 0 | 0 | 0 | 0 | 4 | 10.00 |
+| Nivel        | 0 | 0 | 0 | 1 | 3 |  9.50 |
+| Relevancia   | 0 | 0 | 0 | 1 | 3 |  9.50 |
+| Claridad     | 0 | 0 | 1 | 0 | 3 |  9.00 |
+| Presencia    | 0 | 0 | 1 | 0 | 3 |  9.00 |
+|--------------+---+---+---+---+---+-------|
+|              |   |   |   |   |   |  9.40 |
+#+TBLFM: @2$7..@6$7=10 * (0.2*$2 + 0.4*$3 + 0.6*$4 + 0.8*$5 + $6 ) / vsum($2..$6); f-2::@7$7=vmean(@2$7..@6$7); f-2
+
+** Comentarios de los compañeros
+
+- Ninguna, el tema se comprendió y la explicación de mis compañeros fue muy clara
+- Hablan muy lento �� la exposición se hizo larga y aburrida
+
+* Evaluación por parte del docente
+
+| *Aspecto*                          | *Peso* | *Evaluación* | *Puntos* |
+|------------------------------------+--------+--------------+----------|
+| Contenido técnico y profundidad    |    0.3 |            7 |      2.1 |
+| Fuentes bibliográficas             |   0.15 |           10 |      1.5 |
+| Organización                       |   0.15 |           10 |      1.5 |
+| Comunicación oral y uso del tiempo |   0.25 |            7 |     1.75 |
+| Uso de recursos visuales           |   0.15 |            7 |     1.05 |
+|------------------------------------+--------+--------------+----------|
+| *Global*                           |        |              |     7.90 |
+#+TBLFM: @<<$4..@>>$4=$2*$3::$4=vsum(@<<..@>>);f-2
+
+** Comentarios
+- De acuerdo con el 2º comentario que hicieron los alumnos: la exposición
+  fue muy larga, y se le puede “achacar” a que hablaron a una velocidad muy
+  baja.
+  - ¿Por qué lo hicieron así? Veo que es algo habitual... ¿Se los
+    recomiendan en alguna otra materia?
+  - No es lo mismo /hablar claro/ y /hablar lento/...
+- El contenido es interesante, pero volviendo a cómo se plantea el tema,
+  /deben concentrarse en el _cómo_ más que en el _qué_/.
+  - Para este nivel y estas exposiciones, espero contenido más técnico
+  - Abordaron un tema profundo e interesante, pero no dieron ejemplos
+    aplicados ni manera de visualizar o demostrar lo que dijeron.
+- Utilizaron (y me lo dijeron de antemano, ¡no hay engaño!) una herramienta
+  de ayuda para elaborar la presentación. Sin embargo, visualmente la
+  presentación fue /plana/ y aburrida. ¡Tendrían que haber aprovechado para
+  que fuera más dinámica!
+  - ¡Por lo menos incluir sus videos! Por lo menos en mi opinión (y por eso
+    la incluyo en mis clases, no por mera promoción de mi imagen 😉) el ver
+    a alguien hablarme, gesticular, poner énfasis en las ideas... ayuda a
+    mantener mucho mejor la atención.
